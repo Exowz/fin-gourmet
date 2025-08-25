@@ -5,6 +5,7 @@ import {NextIntlClientProvider, hasLocale} from 'next-intl';
 import {notFound} from 'next/navigation';
 import {routing} from '@/i18n/routing';
 import { ThemeProvider } from "@/components/providers/theme-provider";
+import { Header } from "@/components/layout/Header"
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -41,6 +42,7 @@ export default async function RootLayout({
       >
         <ThemeProvider>
         <NextIntlClientProvider>
+        <Header />
         {children}
         </NextIntlClientProvider>
         </ThemeProvider>
