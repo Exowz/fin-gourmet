@@ -1,0 +1,20 @@
+{
+  "HomePage": {
+    "title": "Bem-vindo ao Fin Gourmet",
+    "about": "Sobre nós"
+  },
+  "welcome": "Bem-vindo",
+  "navigation": {
+    "home": "Início",
+    "about": "Sobre",
+    "contact": "Contato"
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error": "Ocorreu um erro",
+    "retry": "Tentar novamente",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "submit": "Enviar"
+  }
+}

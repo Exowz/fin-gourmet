@@ -1,0 +1,20 @@
+{
+  "HomePage": {
+    "title": "Welcome to Fin Gourmet",
+    "about": "About Us"
+  },
+  "welcome": "Welcome",
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit"
+  }
+}
